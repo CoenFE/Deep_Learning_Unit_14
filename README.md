@@ -7,7 +7,9 @@ This repository will demonstrate how deep learning recurrent neural networks mod
 The following was completed:
 
 prepare-the-data-for-training-and-testing
+
 build-and-train-custom-lstm-rnns
+
 evaluate-the-performance-of-each-model
 
 ## Final Results
